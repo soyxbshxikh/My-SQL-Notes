@@ -1,4 +1,4 @@
-# My Notes in My-SQL
+<h1 align="center"> My-SQL Notes </h1>
 
 ## 1. Introduction to Databases
 - **What is a database?**
